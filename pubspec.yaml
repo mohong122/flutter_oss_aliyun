@@ -12,9 +12,9 @@ environment:
 
 dependencies:
   crypto: ^3.0.3
-  dio: ^5.2.1
+  dio: ^5.8.0
   async: ^2.9.0
-  mime: ^1.0.4
+  mime: ^2.0.0
 
 dev_dependencies:
   flutter_test:
